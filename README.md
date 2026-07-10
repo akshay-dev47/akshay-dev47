@@ -41,17 +41,3 @@ Feel free to connect if you would like to collaborate on projects, discuss techn
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
-# GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=akshay-dev47&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=akshay-dev47&theme=aura_dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-dev47&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=akshay-dev47&theme=holi&no-frame=false&no-bg=false&margin-w=4)
-
-
